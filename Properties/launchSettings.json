@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "AISetUpDemo": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
